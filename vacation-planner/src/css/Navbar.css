@@ -1,0 +1,18 @@
+/* Navbar Container */
+.nav{
+    background-color: #c0cad5; /* Blue background */
+    padding: 15px; /* Add padding for spacing */
+    text-align: center; /* Center the text */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a modern look */
+  }
+  
+  /* Navbar Heading */
+  .head {
+    font-size: 24px; /* Set font size */
+    font-weight: bold; /* Make the text bold */
+    color: #ffffff; /* White text color */
+    margin: 0; /* Remove default margin */
+    text-transform: uppercase; /* Capitalize the text */
+    letter-spacing: 2px; /* Add spacing between letters */
+  }
+  
