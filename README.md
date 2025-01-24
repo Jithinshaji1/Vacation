@@ -1,4 +1,5 @@
 Vacation Recommendation App – Technical Overview
+
 This app is a personalized vacation recommendation platform that leverages user preferences to generate tailored travel suggestions dynamically. Here’s a detailed breakdown of the app's technical implementation, focusing on the technologies used:
 
 Core Features
